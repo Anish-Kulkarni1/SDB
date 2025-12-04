@@ -1,3 +1,4 @@
+
 # Satellite-Derived Bathymetry (SDB) Project
 
 This project implements a workflow for deriving bathymetry from Sentinel-2 satellite imagery using machine learning approaches, validated against GEBCO reference data.
@@ -461,5 +462,3 @@ If you use this project in your research, please cite:
   url = {https://github.com/yourusername/sdb_project}
 }
 ```
-#   S D B  
- 
